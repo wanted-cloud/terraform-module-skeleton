@@ -1,8 +1,6 @@
 /**
- * # Main title
+ * # wanted-cloud/terraform-module-skeleton
  *
- * Everything in this comment block will get extracted.
+ * Some descirption of the module.
  *
- * You can put simple text or complete Markdown content
- * here.
  */
