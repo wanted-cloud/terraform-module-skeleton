@@ -1,5 +1,3 @@
-version: 0.1.0
-
 formatter: "markdown document"
 
 header-from: main.tf
